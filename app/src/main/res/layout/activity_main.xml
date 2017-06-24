@@ -57,6 +57,7 @@
                 android:src="@mipmap/ic_accout" />
 
             <EditText
+                android:inputType="text"
                 android:id="@+id/edtUser"
                 android:textColorHint="@color/colorPrimaryLight"
                 android:textColor="@color/colorPrimaryDark"
@@ -79,6 +80,7 @@
                 android:src="@mipmap/ic_pass" />
 
             <EditText
+                android:inputType="textPassword"
                 android:id="@+id/edtPassword"
                 android:textColorHint="@color/colorPrimaryLight"
                 android:textColor="@color/colorPrimaryDark"
