@@ -118,7 +118,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 //Intent to NewRegisterActivity
-                Intent intent = new Intent(MainActivity.this, NewRegisterActivity.class);
+                Intent intent = new Intent(
+                        MainActivity.this, NewRegisterActivity.class);
                 startActivity(intent);
 
 
