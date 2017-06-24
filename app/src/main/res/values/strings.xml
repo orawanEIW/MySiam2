@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Siam</string>
+    <string name="title">ม. สยาม</string>
+    <string name="Login">Login</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="new_register">New Register</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+</resources>
