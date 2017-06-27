@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="appmax.adisonz.mysiam">
+    package="appmax.adisonz.mysiam"> //ถูกละคะ
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -36,7 +36,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyDppBNGb02p0hkB1aBUHp0O4-5X0EEEsII" />
 
         <activity
             android:name=".MapsActivity"

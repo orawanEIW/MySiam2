@@ -23,7 +23,7 @@ public class PostDataToServer extends AsyncTask<String, Voice, String>{
 
     public PostDataToServer(Context context) {
         this.context = context;
-    } //Main Class
+    }
 
     @Override
     protected String doInBackground(String... params) {
